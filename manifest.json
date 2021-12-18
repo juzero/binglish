@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "빙글리쉬 - 비즈니스 영어 이메일 표현 모음",
+    "version": "1.0.0",
+    "description": "비즈니스 이메일 표현을 위한 확장앱",
+    "icons": {
+        "16": "icons/binglish.png",
+        "48": "icons/binglish.png",
+        "128": "icons/binglish.png"
+    },
+
+
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+
+    "sidebar_action": {
+        "default_page": "index.html",
+        "default_icon": {
+          "16": "icons/binglish.png"
+        },
+        "default_title": "빙글리쉬 - 비즈니스 영어 이메일 표현 모음"
+      }
+
+}
