@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+    <g data-name="그룹 19850">
+        <g data-name="사각형 24224" style="fill:#003884;stroke:#707070">
+            <rect width="200" height="200" rx="50" style="stroke:none"/>
+            <rect x=".5" y=".5" width="199" height="199" rx="49.5" style="fill:none"/>
+        </g>
+        <text data-name="@ English Business" transform="translate(100 101)" style="fill:#fff;font-size:90px;font-family:Arial-BoldMT,Arial;font-weight:700"><tspan x="-43.879" y="0">@</tspan><tspan style="font-size:25px"><tspan x="-45.142" y="45">English</tspan><tspan x="-55.579" y="74">Business</tspan></tspan></text>
+    </g>
+</svg>
