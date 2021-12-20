@@ -1,36 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="326" viewBox="0 0 350 326">
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="366" viewBox="0 0 350 366">
     <defs>
         <style>
             .cls-4,.cls-6{fill:#1d2022;font-size:12px}.cls-5{font-family:Arial-BoldMT,Arial}.cls-4{font-weight:700;font-family:AppleSDGothicNeo-Bold,Apple SD Gothic Neo}.cls-10,.cls-6{font-family:AppleSDGothicNeo-Regular,Apple SD Gothic Neo}.cls-7{font-family:ArialMT,Arial}.cls-12,.cls-8{fill:none}.cls-8{stroke:#ff3120;stroke-dasharray:5;opacity:.3}.cls-11{stroke:none}
         </style>
     </defs>
-    <g id="그룹_19849" data-name="그룹 19849" transform="translate(-209 -416)">
-        <g id="사각형_24216" data-name="사각형 24216" transform="translate(209 416)" style="fill:#fff;stroke:#9ea4aa">
-            <rect class="cls-11" width="350" height="326" rx="10"/>
-            <rect class="cls-12" x=".5" y=".5" width="349" height="325" rx="9.5"/>
+    <g id="그룹_19852" data-name="그룹 19852" transform="translate(-184 -351)">
+        <g id="사각형_24216" data-name="사각형 24216" transform="translate(184 351)" style="fill:#fff;stroke:#9ea4aa">
+            <rect class="cls-11" width="350" height="366" rx="10"/>
+            <rect class="cls-12" x=".5" y=".5" width="349" height="365" rx="9.5"/>
         </g>
-        <text id="_에게" data-name="~에게" transform="translate(231 454)" style="font-weight:700;font-family:Arial-BoldMT,Arial;fill:#1d2022;font-size:12px"><tspan x="0" y="0">~</tspan><tspan y="0" style="font-family:AppleSDGothicNeo-Bold,Apple SD Gothic Neo">에게</tspan></text>
-        <text id="본인_소개" data-name="본인 소개" class="cls-4" transform="translate(231 495)"><tspan x="0" y="0">본인</tspan><tspan class="cls-5" y="0"> </tspan><tspan y="0">소개</tspan></text>
-        <text id="본론" class="cls-4" transform="translate(231 539)"><tspan x="0" y="0">본론</tspan></text>
-        <text id="_자세한_내용을_추가_기입" data-name="ㄴ 자세한 내용을 추가 기입" class="cls-6" transform="translate(241 609)"><tspan x="0" y="0">ㄴ</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">자세한</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">내용을</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">추가</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">기입</tspan></text>
-        <text id="_이메일의_목적부터_언급" data-name="ㄴ 이메일의 목적부터 언급" class="cls-6" transform="translate(241 574)"><tspan x="0" y="0">ㄴ</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">이메일의</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">목적부터</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">언급</tspan></text>
-        <text id="끝맺음_인사" data-name="끝맺음 인사" class="cls-4" transform="translate(231 711)"><tspan x="0" y="0">끝맺음</tspan><tspan class="cls-5" y="0"> </tspan><tspan y="0">인사</tspan></text>
+        <text id="_에게" data-name="~에게" transform="translate(206 389)" style="font-weight:700;font-family:Arial-BoldMT,Arial;fill:#1d2022;font-size:12px"><tspan x="0" y="0">~</tspan><tspan y="0" style="font-family:AppleSDGothicNeo-Bold,Apple SD Gothic Neo">에게</tspan></text>
+        <text id="본인_소개" data-name="본인 소개" class="cls-4" transform="translate(206 430)"><tspan x="0" y="0">본인</tspan><tspan class="cls-5" y="0"> </tspan><tspan y="0">소개</tspan></text>
+        <text id="본론" class="cls-4" transform="translate(206 474)"><tspan x="0" y="0">본론</tspan></text>
+        <text id="_자세한_내용을_추가_기입" data-name="ㄴ 자세한 내용을 추가 기입" class="cls-6" transform="translate(216 544)"><tspan x="0" y="0">ㄴ</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">자세한</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">내용을</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">추가</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">기입</tspan></text>
+        <text id="_이메일의_목적부터_언급" data-name="ㄴ 이메일의 목적부터 언급" class="cls-6" transform="translate(216 509)"><tspan x="0" y="0">ㄴ</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">이메일의</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">목적부터</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">언급</tspan></text>
+        <text id="끝맺음_인사" data-name="끝맺음 인사" class="cls-4" transform="translate(206 646)"><tspan x="0" y="0">끝맺음</tspan><tspan class="cls-5" y="0"> </tspan><tspan y="0">인사</tspan></text>
         <g id="사각형_24217" data-name="사각형 24217" class="cls-8">
-            <path class="cls-11" d="M0 0h330v30H0z" transform="translate(219 436)"/>
-            <path class="cls-12" d="M.5.5h329v29H.5z" transform="translate(219 436)"/>
+            <path class="cls-11" d="M0 0h330v30H0z" transform="translate(194 371)"/>
+            <path class="cls-12" d="M.5.5h329v29H.5z" transform="translate(194 371)"/>
         </g>
         <g id="사각형_24218" data-name="사각형 24218" class="cls-8">
-            <path class="cls-11" d="M0 0h330v30H0z" transform="translate(219 476)"/>
-            <path class="cls-12" d="M.5.5h329v29H.5z" transform="translate(219 476)"/>
+            <path class="cls-11" d="M0 0h330v30H0z" transform="translate(194 411)"/>
+            <path class="cls-12" d="M.5.5h329v29H.5z" transform="translate(194 411)"/>
         </g>
         <g id="사각형_24219" data-name="사각형 24219" class="cls-8">
-            <path class="cls-11" d="M0 0h330v166H0z" transform="translate(220 516)"/>
-            <path class="cls-12" d="M.5.5h329v165H.5z" transform="translate(220 516)"/>
+            <path class="cls-11" d="M0 0h330v166H0z" transform="translate(195 451)"/>
+            <path class="cls-12" d="M.5.5h329v165H.5z" transform="translate(195 451)"/>
         </g>
         <g id="사각형_24220" data-name="사각형 24220" class="cls-8">
-            <path class="cls-11" d="M0 0h330v30H0z" transform="translate(220 692)"/>
-            <path class="cls-12" d="M.5.5h329v29H.5z" transform="translate(220 692)"/>
+            <path class="cls-11" d="M0 0h330v30H0z" transform="translate(195 627)"/>
+            <path class="cls-12" d="M.5.5h329v29H.5z" transform="translate(195 627)"/>
         </g>
-        <text id="_같은_주제로_회신을_여러_번_주고받았다면_생략_가능_" data-name="(같은 주제로 회신을 여러 번 주고받았다면 생략 가능)" transform="translate(286 496)" style="fill:#454c53;font-size:9px;font-family:ArialMT,Arial"><tspan x="0" y="0">(</tspan><tspan class="cls-10" y="0">같은</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">주제로</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">회신을</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">여러</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">번</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">주고받았다면</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">생략</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">가능</tspan><tspan y="0">)</tspan></text>
+        <text id="_같은_주제로_회신을_여러_번_주고받았다면_생략_가능_" data-name="(같은 주제로 회신을 여러 번 주고받았다면 생략 가능)" transform="translate(261 431)" style="fill:#454c53;font-size:9px;font-family:ArialMT,Arial"><tspan x="0" y="0">(</tspan><tspan class="cls-10" y="0">같은</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">주제로</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">회신을</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">여러</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">번</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">주고받았다면</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">생략</tspan><tspan y="0"> </tspan><tspan class="cls-10" y="0">가능</tspan><tspan y="0">)</tspan></text>
+        <text id="본인_서명" data-name="본인 서명" class="cls-4" transform="translate(206 686)"><tspan x="0" y="0">본인</tspan><tspan class="cls-5" y="0"> </tspan><tspan y="0">서명</tspan></text>
+        <g id="사각형_24225" data-name="사각형 24225" class="cls-8">
+            <path class="cls-11" d="M0 0h330v30H0z" transform="translate(195 667)"/>
+            <path class="cls-12" d="M.5.5h329v29H.5z" transform="translate(195 667)"/>
+        </g>
     </g>
 </svg>
